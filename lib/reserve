@@ -1,0 +1,21 @@
+ // Column(
+                        //   mainAxisAlignment:MainAxisAlignment.center,
+                        //   children: [
+                        //     Container(
+                        //       decoration: BoxDecoration(
+                        //         color: Colors.yellow, //background color of box
+                        //         borderRadius: BorderRadius.circular(100),
+                        //         boxShadow: const [
+                        //           BoxShadow(
+                        //             color: Colors.yellow,
+                        //             blurRadius: 8.0, // soften the shadow
+                        //             spreadRadius: 5.0, //extend the shadow
+                        //           )
+                        //         ],
+                        //       ),
+                        //       child: Image.asset("assets/images/Salad.png"),
+                        //     ),
+                        //     const SizedBox(height: 20,),
+                        //     const Text("Salad",style:TextStyle(fontSize:20,fontWeight: FontWeight.bold))
+                        //   ],
+                        // ),
